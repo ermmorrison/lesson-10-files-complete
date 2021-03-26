@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Malt Mango",
+      "calories" : 500,
+      "type" : "slushie",
+      "ingredients" : [
+        "fresh mangos",
+        "malt vinegar",
+        "french fries"
+      ],
+      "image" : "ice-cream-xtra1.svg"
+    },
+    {
+      "name" : "Funky Fresh Froyo",
+      "calories" : 250,
+      "type" :"frozen yogurt",
+      "ingredients" : [
+        "mountain dew",
+        "raspberries",
+        "honey suckle"
+      ],
+      "image" : "ice-cream-xtra2.svg"
     }
   ]
 }
